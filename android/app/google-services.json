@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "21309242493",
+    "project_id": "quran-karim-663c6",
+    "storage_bucket": "quran-karim-663c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21309242493:android:0573064fecb7d2f1864514",
+        "android_client_info": {
+          "package_name": "com.example.quran_karim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21309242493-o8hcf5utvre70uokrjl0geaf62829a7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quran_karim",
+            "certificate_hash": "3c06f5a3d1b74d6f9ae7ec1ca2773adc976d7287"
+          }
+        },
+        {
+          "client_id": "21309242493-qt08b1a9tal0r5g5melh4greu9kvnu21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLdJmGFzhrXNh8fd3StyLxJqqW2o3OQkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21309242493-qt08b1a9tal0r5g5melh4greu9kvnu21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
